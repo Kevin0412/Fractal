@@ -4,3 +4,4 @@ create2.py:find where to enlange寻找放大位置
 creat2_color.py:draw the images渲染图像
 add2.py:fix the images修补图像
 video2.py:make a video合成视频
+video视频:https://www.bilibili.com/video/BV1tA4y1Z7gt/
